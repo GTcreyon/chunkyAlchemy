@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "mmalchemy:block/test_stone" }
+  }
+}
